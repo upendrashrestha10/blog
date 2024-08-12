@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 100%;
+    height: auto;
+    background-color: cornsilk;
+    background-position: center;
+    background-size: cover;
+}
+
+.h1,
+.h11{
+    font-size: 40px;
+    font-family:sans-serif;
+    color: red;
+    text-align: center;
+}
+
